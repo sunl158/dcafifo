@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2008/08/21 09:39:07.673.pas,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\Unit1.pas=C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\DB1ImportF.pas</Transaction>
+    <Transaction>2008/08/21 09:39:07.673.dfm,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\Unit1.dfm=C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\DB1ImportF.dfm</Transaction>
+    <Transaction>2008/09/17 15:42:27.028.pas,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\Unit1.pas=C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\ColorwayWizardF.pas</Transaction>
+    <Transaction>2008/09/17 15:42:27.028.dfm,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\Unit1.dfm=C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\ColorwayWizardF.dfm</Transaction>
+    <Transaction>2008/09/24 16:14:27.112.pas,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\Unit1.pas=C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\FindColorF.pas</Transaction>
+    <Transaction>2008/09/24 16:14:27.112.dfm,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\Unit1.dfm=C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\FindColorF.dfm</Transaction>
+    <Transaction>2008/09/24 17:52:23.367.pas,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\Unit1.pas=C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\DegradeF.pas</Transaction>
+    <Transaction>2008/09/24 17:52:23.367.dfm,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\Unit1.dfm=C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\DegradeF.dfm</Transaction>
+    <Transaction>2008/10/20 13:30:44.712.pas,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\Unit1.pas=C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\RedistLattageF.pas</Transaction>
+    <Transaction>2008/10/20 13:30:44.712.dfm,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\Unit1.dfm=C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\RedistLattageF.dfm</Transaction>
+    <Transaction>2008/11/21 13:41:16.603.pas,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\JacqF.pas=</Transaction>
+    <Transaction>2008/11/21 13:41:16.603.dfm,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\JacqF.dfm=</Transaction>
+    <Transaction>2009/01/05 11:40:33.270.pas,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\Unit1.pas=C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\RemoveitemFromMECF.pas</Transaction>
+    <Transaction>2009/01/05 11:40:33.271.dfm,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\Unit1.dfm=C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\RemoveitemFromMECF.dfm</Transaction>
+    <Transaction>2009/01/09 11:50:48.329.pas,C:\Users\ads\AppData\Roaming\Delphi\Common\MECLibrary_Intf.pas=</Transaction>
+    <Transaction>2009/01/09 11:50:48.333.pas,C:\Users\ads\AppData\Roaming\Delphi\Common\MECLibrary_Invk.pas=</Transaction>
+    <Transaction>2009/01/09 11:50:48.729.pas,C:\Users\ads\AppData\Roaming\Delphi\Common\MECService_Impl.pas=</Transaction>
+    <Transaction>2009/02/18 13:40:22.393.pas,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\techF2.pas=</Transaction>
+    <Transaction>2009/02/18 13:40:22.393.dfm,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\techF2.dfm=</Transaction>
+    <Transaction>2009/02/20 13:47:50.724.pas,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\Unit1.pas=C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\GradientF.pas</Transaction>
+    <Transaction>2009/02/20 13:47:50.724.dfm,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\Unit1.dfm=C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\GradientF.dfm</Transaction>
+    <Transaction>2010/01/05 11:10:59.746.pas,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\Unit1.pas=C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\pegplanF.pas</Transaction>
+    <Transaction>2010/01/05 11:10:59.746.dfm,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\Unit1.dfm=C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\pegplanF.dfm</Transaction>
+    <Transaction>2010/03/18 11:49:29.228.pas,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\Unit1.pas=C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\FunctionsF.pas</Transaction>
+    <Transaction>2010/03/18 11:49:29.228.dfm,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\Unit1.dfm=C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\FunctionsF.dfm</Transaction>
+    <Transaction>2010/11/08 14:39:02.173.pas,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\Unit1.pas=C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\DegSeqF.pas</Transaction>
+    <Transaction>2010/11/08 14:39:02.173.dfm,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\Unit1.dfm=C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\DegSeqF.dfm</Transaction>
+    <Transaction>2010/12/09 11:52:32.386.pas,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\Unit1.pas=C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\DobImportF.pas</Transaction>
+    <Transaction>2010/12/09 11:52:32.386.dfm,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\Unit1.dfm=C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\DobImportF.dfm</Transaction>
+    <Transaction>2010/12/20 15:37:26.120.pas,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\ThumbF.pas=C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\ThumbFold.pas</Transaction>
+    <Transaction>2010/12/20 15:37:26.120.dfm,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\ThumbF.dfm=C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\ThumbFold.dfm</Transaction>
+    <Transaction>2010/12/20 15:37:34.582.pas,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\ThumbFold.pas=</Transaction>
+    <Transaction>2010/12/20 15:37:34.582.dfm,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\ThumbFold.dfm=</Transaction>
+    <Transaction>2010/12/20 15:38:04.055.pas,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\Unit1.pas=C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\ThumbF.pas</Transaction>
+    <Transaction>2010/12/20 15:38:04.055.dfm,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\Unit1.dfm=C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\ThumbF.dfm</Transaction>
+    <Transaction>2011/01/19 15:11:03.521.pas,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\Unit1.pas=C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\InsertDobbyF.pas</Transaction>
+    <Transaction>2011/01/19 15:11:03.521.dfm,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\Unit1.dfm=C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\InsertDobbyF.dfm</Transaction>
+    <Transaction>2011/06/14 15:17:06.275.pas,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\Unit1.pas=C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\cartonClavier.pas</Transaction>
+    <Transaction>2011/06/14 15:17:06.275.dfm,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\Unit1.dfm=C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\cartonClavier.dfm</Transaction>
+    <Transaction>2012/03/02 16:23:30.032.pas,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\Weave3DlibUnit.pas=C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\Weave3DSimplelibUnit.pas</Transaction>
+    <Transaction>2012/03/06 10:19:43.270.pas,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\Simul 3D - Sans dll\Visualweave.pas=</Transaction>
+    <Transaction>2012/03/06 10:39:49.296.pas,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\Weave3DSimplelibUnit.pas=</Transaction>
+    <Transaction>2012/10/15 17:12:30.108.pas,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\Unit1.pas=C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\ExchangeShaftF.pas</Transaction>
+    <Transaction>2012/10/15 17:12:30.108.dfm,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\Unit1.dfm=C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\ExchangeShaftF.dfm</Transaction>
+    <Transaction>2017/04/12 00:18:00.769.dproj,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\YXWeave.dproj=C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New - Copie\fifoWeave.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

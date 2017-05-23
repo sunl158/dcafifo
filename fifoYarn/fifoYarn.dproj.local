@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2007/11/23 16:14:47.159.pas,C:\Users\ads\AppData\Roaming\Delphi\YX-Yarn New\Unit2.pas=C:\Users\ads\AppData\Roaming\Delphi\Common\YarnUnit.pas</Transaction>
+    <Transaction>2017/04/08 01:53:52.051.pas,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New\selimpf.pas=</Transaction>
+    <Transaction>2017/04/08 01:53:52.051.dfm,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New\selimpf.dfm=</Transaction>
+    <Transaction>2017/04/08 01:53:57.304.pas,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New\simulf.pas=</Transaction>
+    <Transaction>2017/04/08 01:53:57.305.dfm,C:\Users\ads\AppData\Roaming\Delphi\YX-Weave New\simulf.dfm=</Transaction>
+    <Transaction>2017/04/12 00:04:09.679.dproj,C:\Users\ads\AppData\Roaming\Delphi\YX-Yarn New\YXYarn.dproj=C:\Users\ads\AppData\Roaming\Delphi\YX-Yarn New\fifoYarn.dproj</Transaction>
+    <Transaction>2017/05/23 00:09:15.582.pas,C:\Users\ads\Documents\fifo\YX-Yarn New\ImportF.pas=</Transaction>
+    <Transaction>2017/05/23 00:09:15.582.dfm,C:\Users\ads\Documents\fifo\YX-Yarn New\ImportF.dfm=</Transaction>
+  </Transactions>
+</BorlandProject>
